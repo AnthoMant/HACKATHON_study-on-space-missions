@@ -1,6 +1,8 @@
 # HACKATHON_study-on-space-missions
 “The Lonely Martians” 2021 Edition  11 Mai - 12 Mai
 
+Lien vers le datapane : https://datapane.com/u/ramdanetlemcani/reports/test/
+
 Un datathon c’est un hackathon spécialisé dans la data 📊
 
 L’exercice va nous permettre d'expérimenter le mode sprint et d’accélérer l'apprentissage pendant quelques heures 🤯
